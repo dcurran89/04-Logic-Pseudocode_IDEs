@@ -5,6 +5,8 @@ This is the first commit before I merge.
 
 1.2 What is hardware?
 
+Now I am going to add remote upstream. Lets see if these changes go through. 
+
 1.3 List the five major components of a computer system.
 
 1.4 What part of the computer actually runs programs?
