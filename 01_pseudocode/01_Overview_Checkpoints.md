@@ -1,5 +1,7 @@
 # Checkpoint
-1.1 What is a program?
+1.1 What is a program?  
+
+This is the first commit before I merge.  
 
 1.2 What is hardware?
 
